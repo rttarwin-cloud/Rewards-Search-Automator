@@ -1,0 +1,12 @@
+let words = [
+    "Arsenal FC",
+    "Man City",
+    "Selat Bali",
+    "Gunung Fuji",
+"Man United",
+    "Pulau Bali",
+    "Gunung Lawu",
+    
+]
+
+export default words
